@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">lab_5_Kotlin</string>
+    <string name="TextView2" />
+    <string name="subscribe" />
+    <string name="TextView1" />
+    <string name="todo" />
+</resources>
